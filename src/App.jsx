@@ -6,7 +6,7 @@ function App() {
       <header className="header">
         <h1>Welcome to My Site</h1>
         <p>This is a simple landing page built with Vite and React.</p>
-        <button className="cta-button">Click me</button>
+        <button className="cta-button">Click me!!!</button>
       </header>
     </div>
   );
