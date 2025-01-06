@@ -12,7 +12,7 @@ body {
 }
 
 .header {
-  background-color: #282c34;
+  background-color: #555417;
   color: white;
   padding: 20px;
   border-radius: 8px;
@@ -33,7 +33,7 @@ p {
   padding: 10px 20px;
   font-size: 1rem;
   color: white;
-  background-color: #61dafb;
+  background-color: #7d0a81;
   border: none;
   border-radius: 5px;
   cursor: pointer;
